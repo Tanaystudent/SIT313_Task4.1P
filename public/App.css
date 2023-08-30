@@ -1,4 +1,4 @@
-/* App.css */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -67,9 +67,6 @@ body {
   cursor: pointer;
 }
 
-/* Add more styling for HeaderImage, SubHeading, and Button components */
-
-/* Footer styling */
 .footer {
   display: flex;
   width:100%;
